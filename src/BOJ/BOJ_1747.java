@@ -1,4 +1,4 @@
-package baekjoon;
+package BOJ;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
